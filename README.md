@@ -1,2 +1,2 @@
 # Kodluyoruz
-All homeworks that i have done for the java backEnd bootcamp
+Kodluyoruz Java BackEnd bootcamp'i içeriğinde yaptığım ödevleri burada topladım.
